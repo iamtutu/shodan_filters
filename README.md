@@ -29,7 +29,8 @@ Python Server
 
 Kubernates
 ---  
-- http.component:Kubernetes  
+- http.component:Kubernetes
+- http.favicon.hash:-847792508
 
 Jenkins
 ---
