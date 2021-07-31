@@ -11,7 +11,7 @@ General
 
 DOCKER REGISTRY
 -------
-Docker-Distribution-Api-Version http.status:200 /*No authentication*/
+Docker-Distribution-Api-Version http.status:200 *(No authentication)*
 
 RUBY
 ---
