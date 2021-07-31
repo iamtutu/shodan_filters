@@ -27,7 +27,7 @@ Python Server
 ---
 - "Server: Werkzeug/1.0"
 
-Kubernates
+Kubernetes
 ---  
 - http.component:Kubernetes
 - http.favicon.hash:-847792508
