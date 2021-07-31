@@ -9,6 +9,10 @@ General
 - ssl:"company development"   
 - ssl.cert.subject.CN: domain.com
 
+DOCKER REGISTRY
+-------
+Docker-Distribution-Api-Version http.status:200 /*No authentication*/
+
 RUBY
 ---
 - html:"SECRET_KEY_BASE"  
