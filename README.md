@@ -12,6 +12,7 @@ General
 DOCKER REGISTRY
 -------
 Docker-Distribution-Api-Version http.status:200 *(No authentication)*
+*Querying the registry with CURL--- curl -k https://[IP]:[PORT]/v2/_catalog*
 
 RUBY
 ---
